@@ -3,3 +3,4 @@ a.pop(0)
 a.pop(8)
 print(a)
 
+
